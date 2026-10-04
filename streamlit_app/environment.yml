@@ -1,0 +1,6 @@
+name: predictive_maintenance
+channels:
+  - snowflake
+dependencies:
+  - streamlit
+  - snowflake-snowpark-python
